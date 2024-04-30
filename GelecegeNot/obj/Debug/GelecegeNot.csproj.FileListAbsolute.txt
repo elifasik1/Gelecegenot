@@ -1,0 +1,13 @@
+C:\Users\elifa\OneDrive\Masaüstü\egitim\GElecegenot\GelecegeNot\GelecegeNot\bin\Debug\GelecegeNot.exe.config
+C:\Users\elifa\OneDrive\Masaüstü\egitim\GElecegenot\GelecegeNot\GelecegeNot\bin\Debug\GelecegeNot.exe
+C:\Users\elifa\OneDrive\Masaüstü\egitim\GElecegenot\GelecegeNot\GelecegeNot\bin\Debug\GelecegeNot.pdb
+C:\Users\elifa\OneDrive\Masaüstü\egitim\GElecegenot\GelecegeNot\GelecegeNot\obj\Debug\GelecegeNot.csproj.AssemblyReference.cache
+C:\Users\elifa\OneDrive\Masaüstü\egitim\GElecegenot\GelecegeNot\GelecegeNot\obj\Debug\GelecegeNot.Form1.resources
+C:\Users\elifa\OneDrive\Masaüstü\egitim\GElecegenot\GelecegeNot\GelecegeNot\obj\Debug\GelecegeNot.Properties.Resources.resources
+C:\Users\elifa\OneDrive\Masaüstü\egitim\GElecegenot\GelecegeNot\GelecegeNot\obj\Debug\GelecegeNot.csproj.GenerateResource.cache
+C:\Users\elifa\OneDrive\Masaüstü\egitim\GElecegenot\GelecegeNot\GelecegeNot\obj\Debug\GelecegeNot.csproj.CoreCompileInputs.cache
+C:\Users\elifa\OneDrive\Masaüstü\egitim\GElecegenot\GelecegeNot\GelecegeNot\obj\Debug\GelecegeNot.exe
+C:\Users\elifa\OneDrive\Masaüstü\egitim\GElecegenot\GelecegeNot\GelecegeNot\obj\Debug\GelecegeNot.pdb
+C:\Users\elifa\OneDrive\Masaüstü\egitim\GElecegenot\GelecegeNot\GelecegeNot\obj\Debug\GelecegeNot.anasayfa.resources
+C:\Users\elifa\OneDrive\Masaüstü\egitim\GElecegenot\GelecegeNot\GelecegeNot\obj\Debug\GelecegeNot.uyekayit.resources
+C:\Users\elifa\OneDrive\Masaüstü\egitim\GElecegenot\GelecegeNot\GelecegeNot\obj\Debug\GelecegeNot.yardim.resources
